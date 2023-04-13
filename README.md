@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmarDavid7
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html5, css3, javascript,java,python,sql
+- 🌱 I’m currently learning html5, css3, javascript, java, python, sql
 - 💞️ I’m looking to collaborate in the development of websites
 - 📫 How to reach me email omar3568@gmail.com
 
